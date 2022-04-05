@@ -1,2 +1,2 @@
 # Dice
-A 1.8,9 Minecraft Hacked Client
+A 1.8.9 Minecraft Hacked Client
